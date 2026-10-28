@@ -1,0 +1,31 @@
+school_id,school_name,stem_program,stem_program_level,robotics_club,coding_classes,advanced_placement_courses,dual_enrollment_courses,career_tech_education,arts_program,music_program,sports_programs,after_school_program,mentorship_program,tutoring_program,community_partnerships,restorative_justice,gifted_program,ell_support_program,avg_device_age_years,student_to_device_ratio,broadband_mbps,lms_platform,devices_per_classroom,smartboards_pct,computer_lab,makerspaces,avg_tech_uptime_pct
+1001,Riverside Elementary,Basic,1,No,No,0,0,No,Yes,Yes,No,Yes,No,Yes,2,No,No,Yes,6.2,4.1,25,Google Classroom,4,40,Yes,No,87.2
+1002,Eastside Middle School,Basic,1,No,Yes,0,0,No,Yes,Yes,Yes,Yes,No,Yes,3,No,No,Yes,5.8,3.7,50,Google Classroom,6,50,Yes,No,88.4
+1003,Valley View Elementary,Basic,1,No,No,0,0,No,Yes,No,No,Yes,No,Yes,2,No,No,Yes,5.5,3.9,25,Schoology,5,45,Yes,No,86.8
+1004,Lincoln Park K-8,Moderate,2,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,Yes,Yes,5.1,3.4,75,Google Classroom,7,55,Yes,No,89.6
+1005,Northgate Elementary,Moderate,2,No,Yes,0,0,No,Yes,Yes,No,Yes,No,Yes,3,No,No,Yes,4.8,3.2,50,Canvas,6,52,Yes,No,90.2
+1006,Greenfield Middle School,Moderate,2,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Yes,No,Yes,4.4,2.9,75,Canvas,8,60,Yes,No,91.4
+1007,Westview Elementary,Moderate,2,No,Yes,0,0,No,Yes,Yes,No,No,No,Yes,3,No,No,Yes,4.1,2.7,100,Google Classroom,7,58,Yes,No,92.1
+1008,Pinecrest Elementary,Good,3,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,Yes,Yes,3.8,2.5,100,Canvas,9,65,Yes,Yes,93.2
+1009,Harmony Hills Middle,Good,3,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Yes,No,Yes,3.5,2.3,150,Canvas,10,68,Yes,Yes,93.8
+1010,Clearwater Middle School,Good,3,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,No,Yes,4,No,Yes,Yes,3.2,2.1,150,Google Classroom,11,72,Yes,Yes,94.4
+1011,Lakeshore Elementary,Good,3,No,Yes,0,0,No,Yes,Yes,Yes,No,Yes,Yes,4,No,Yes,Yes,2.9,2.0,200,Canvas,10,70,Yes,Yes,94.9
+1012,Maplewood K-8 School,Good,3,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,2.7,1.8,200,Canvas,12,75,Yes,Yes,95.6
+1013,Cedar Ridge Elementary,Strong,4,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,No,Yes,4,No,Yes,Yes,2.4,1.6,250,Canvas,13,78,Yes,Yes,96.1
+1014,Sunrise Charter Academy,Strong,4,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,2.1,1.5,250,Google Classroom,14,80,Yes,Yes,96.7
+1015,Blue Hills Elementary,Strong,4,Yes,Yes,0,0,No,Yes,Yes,Yes,No,Yes,Yes,4,No,Yes,No,1.9,1.4,300,Canvas,14,82,Yes,Yes,97.2
+1016,Oakwood Middle School,Strong,4,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,1.7,1.2,300,Canvas,16,85,Yes,Yes,97.8
+1017,Elmwood STEM Academy,Exemplary,5,Yes,Yes,0,0,No,Yes,Yes,Yes,Yes,Yes,Yes,7,Yes,Yes,Yes,1.4,1.1,400,Canvas,18,90,Yes,Yes,98.4
+1018,Summit Ridge High School,Strong,4,Yes,Yes,12,8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,2.8,1.6,300,Canvas,18,82,Yes,Yes,96.4
+1019,Harmony Valley High,Good,3,Yes,Yes,8,6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Yes,No,Yes,3.1,1.8,250,Canvas,16,76,Yes,Yes,94.8
+1020,Clearwater Prep Academy,Strong,4,Yes,Yes,10,10,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,2.6,1.7,300,Canvas,17,80,Yes,Yes,95.7
+1021,Lakeside Community High,Moderate,2,Yes,Yes,6,5,Yes,Yes,Yes,Yes,No,Yes,Yes,7,Yes,No,Yes,3.4,2.0,200,Google Classroom,14,72,Yes,No,93.2
+1022,Mountainview Career High,Good,3,No,Yes,4,12,Yes,Yes,No,Yes,Yes,Yes,Yes,5,No,No,Yes,3.2,1.9,250,Canvas,15,76,Yes,Yes,94.1
+1023,Prairie Star High School,Good,3,Yes,Yes,8,7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,No,Yes,Yes,2.9,1.8,250,Canvas,16,78,Yes,Yes,94.8
+1024,Riverbend Academy,Strong,4,Yes,Yes,9,9,Yes,Yes,Yes,Yes,Yes,No,Yes,7,Yes,Yes,Yes,2.7,1.7,300,Canvas,17,80,Yes,Yes,95.4
+1025,Westfield Innovation High,Strong,4,Yes,Yes,6,4,Yes,Yes,Yes,Yes,No,No,Yes,5,No,Yes,Yes,3.2,2.0,200,Google Classroom,14,74,Yes,Yes,93.6
+1026,Northbrook High School,Good,3,Yes,Yes,9,7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Yes,Yes,Yes,2.4,1.6,300,Canvas,18,82,Yes,Yes,96.1
+1027,Jefferson High School,Strong,4,Yes,Yes,11,8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,No,Yes,Yes,2.1,1.5,350,Canvas,19,84,Yes,Yes,96.8
+1028,Oakdale STEM High,Exemplary,5,Yes,Yes,14,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Yes,Yes,Yes,1.7,1.2,500,Canvas,22,92,Yes,Yes,98.2
+1029,Millbrook Academy,Strong,4,Yes,Yes,10,0,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Yes,Yes,Yes,1.9,1.4,350,Canvas,20,88,Yes,Yes,97.4
+1030,Greenview Comprehensive High,Moderate,2,Yes,Yes,6,6,Yes,Yes,Yes,Yes,Yes,No,Yes,6,No,No,Yes,3.0,1.9,250,Canvas,15,75,Yes,No,93.9

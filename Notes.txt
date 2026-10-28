@@ -1,0 +1,20 @@
+All 23 files are in place. Here's a complete summary of what was built:
+
+Deliverables complete
+Project location: C:\Kalpesh\AgenticAI2026\CapstoneProject\
+
+What was built (23 files across 6 directories)
+Layer	Files	What they do
+Infrastructure	requirements.txt, .env.example, pyproject.toml	Python deps, env config, build metadata
+Data layer	data/schema.py, data/queries.py, data/load_data.py	BQ schema definitions; 7 parameterized SQL queries; CSV→BQ loader with --dry-run, --replace, --table flags
+Tools	tools/bigquery_tools.py, tools/visualization_tools.py, tools/multimodal_tools.py	Read-only BQ execution; Plotly charts (bar, scatter, radar, county); Gemini Vision image/PDF extraction
+Agents	agents/root_agent.py, agents/data_agent.py, agents/insights_agent.py	Root orchestrator (classify + route); Data Agent (BQ + multimodal); Insights Agent (patterns + charts)
+Deployment	deployment/deploy_agents.py, deployment/a2a_config.py	Vertex AI Agent Engine deploy/list/delete/smoke-test; A2A topology, agent cards, RemoteAgent factory
+Tests	tests/test_queries.py, tests/test_agents.py	30 offline tests: SQL builders, schema/CSV consistency, DML blocking, golden-data assertions, mocked BQ tools
+Docs	README.md, design_doc/architecture.md	Full setup/deploy/troubleshoot guide; design doc (also as rendered artifact)
+Key technical decisions
+All SQL is parameterized — user values bind as @param_name; table refs use f-strings from server-side config only
+7 named queries cover every documented use-case plus counselor gap, tech equity, and improving-schools analysis
+Multimodal path uses Gemini Vision to extract data from photos/PDFs and cross-reference against BQ records
+Insights Agent never makes causal claims — correlation language is enforced in the system prompt
+Single-deployment default — all three agents bundled in one Agent Engine app; cross-deployment A2A available via RemoteAgent when needed

@@ -1,0 +1,31 @@
+school_id,school_name,math_proficiency_pct,ela_proficiency_pct,science_proficiency_pct,state_avg_math_pct,state_avg_ela_pct,graduation_rate_pct,state_avg_graduation_rate_pct,attendance_rate_pct,suspension_rate_pct,college_readiness_pct,api_score,school_rating,year_over_year_improvement
+1001,Riverside Elementary,28.4,31.2,26.8,52.0,54.0,,,91.3,8.7,,512,2,Yes
+1002,Eastside Middle School,31.6,34.8,29.4,52.0,54.0,,,91.8,7.2,,528,2,Yes
+1003,Valley View Elementary,34.1,37.2,32.1,52.0,54.0,,,92.4,6.8,,541,2,Yes
+1004,Lincoln Park K-8,36.8,39.4,34.7,52.0,54.0,,,92.9,6.1,,554,3,Yes
+1005,Northgate Elementary,38.2,41.6,36.9,52.0,54.0,,,93.2,5.8,,562,3,No
+1006,Greenfield Middle School,42.7,45.3,40.8,52.0,54.0,,,93.8,5.2,,578,3,Yes
+1007,Westview Elementary,46.1,48.7,44.2,52.0,54.0,,,94.1,4.9,,591,3,No
+1008,Pinecrest Elementary,49.8,52.4,47.6,52.0,54.0,,,94.6,4.4,,607,4,Yes
+1009,Harmony Hills Middle,52.3,55.1,50.4,52.0,54.0,,,94.9,4.1,,618,4,No
+1010,Clearwater Middle School,55.7,58.6,53.8,52.0,54.0,,,95.3,3.7,,631,4,Yes
+1011,Lakeshore Elementary,58.4,61.2,56.7,52.0,54.0,,,95.6,3.4,,642,4,No
+1012,Maplewood K-8 School,61.9,64.7,60.1,52.0,54.0,,,96.1,2.9,,657,4,Yes
+1013,Cedar Ridge Elementary,64.3,67.8,62.4,52.0,54.0,,,96.4,2.6,,668,5,No
+1014,Sunrise Charter Academy,67.1,70.2,65.3,52.0,54.0,,,96.7,2.3,,679,5,Yes
+1015,Blue Hills Elementary,69.8,72.6,68.1,52.0,54.0,,,97.1,1.9,,691,5,No
+1016,Oakwood Middle School,72.4,75.1,70.8,52.0,54.0,,,97.4,1.6,,702,5,Yes
+1017,Elmwood STEM Academy,78.6,76.3,82.4,52.0,54.0,,,97.8,1.2,,724,5,Yes
+1018,Summit Ridge High School,61.4,64.8,59.2,55.0,57.0,94.2,82.5,91.8,4.2,72.4,684,5,Yes
+1019,Harmony Valley High,58.7,62.1,56.8,55.0,57.0,93.1,82.5,90.6,4.8,68.9,671,4,Yes
+1020,Clearwater Prep Academy,63.2,67.4,61.7,55.0,57.0,92.8,82.5,88.9,5.4,71.2,678,5,Yes
+1021,Lakeside Community High,54.8,58.3,52.6,55.0,57.0,91.5,82.5,89.2,5.9,64.7,652,4,Yes
+1022,Mountainview Career High,57.3,61.4,55.1,55.0,57.0,91.2,82.5,87.7,6.2,67.3,661,4,Yes
+1023,Prairie Star High School,59.8,63.7,57.9,55.0,57.0,90.8,82.5,86.3,6.8,65.8,657,4,No
+1024,Riverbend Academy,62.1,65.9,60.4,55.0,57.0,90.4,82.5,90.2,5.1,69.4,667,4,Yes
+1025,Westfield Innovation High,64.7,68.2,67.8,55.0,57.0,90.1,82.5,85.8,7.2,63.2,648,3,No
+1026,Northbrook High School,67.8,71.4,65.3,55.0,57.0,88.6,82.5,88.4,5.7,66.1,659,4,Yes
+1027,Jefferson High School,71.2,74.8,69.7,55.0,57.0,87.4,82.5,89.7,4.8,69.8,672,4,No
+1028,Oakdale STEM High,74.8,71.3,79.6,55.0,57.0,89.2,82.5,92.4,3.4,74.1,694,5,Yes
+1029,Millbrook Academy,68.4,72.1,66.8,55.0,57.0,86.7,82.5,90.1,4.1,67.4,663,4,Yes
+1030,Greenview Comprehensive High,56.4,59.8,54.7,55.0,57.0,83.4,82.5,87.6,6.4,62.8,641,3,No

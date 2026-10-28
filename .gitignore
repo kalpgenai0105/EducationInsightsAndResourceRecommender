@@ -1,0 +1,38 @@
+# Environment and secrets
+.env
+*.json
+!pyproject.toml
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Explicitly exclude prompt file
+Prompt.txt

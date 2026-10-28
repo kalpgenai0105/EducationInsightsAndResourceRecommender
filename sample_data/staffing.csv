@@ -1,0 +1,31 @@
+school_id,school_name,total_teachers,avg_teacher_experience_years,teacher_retention_rate_pct,teacher_certification_rate_pct,national_board_certified_pct,avg_class_size,student_to_teacher_ratio,student_to_counselor_ratio,student_to_librarian_ratio,student_to_admin_ratio,principal_tenure_years,instructional_coaches,stem_certified_teachers,special_ed_teachers,ell_specialists,teacher_vacancies,substitute_fill_rate_pct
+1001,Riverside Elementary,24,4.2,68.4,82.1,4.2,22,20.3,487,487,122,1,2,4,3,3,71.2
+1002,Eastside Middle School,31,5.1,71.2,84.7,5.8,24,19.7,306,612,153,1,3,4,2,2,74.8
+1003,Valley View Elementary,19,4.8,69.7,83.4,3.7,21,18.6,354,354,118,1,1,3,3,1,72.4
+1004,Lincoln Park K-8,38,5.4,72.8,85.2,6.1,23,19.2,365,729,182,2,2,5,4,3,75.6
+1005,Northgate Elementary,22,5.8,73.6,86.1,5.4,20,19.1,421,421,140,1,1,3,2,2,77.1
+1006,Greenfield Middle School,28,6.2,75.4,87.3,6.8,22,19.2,269,538,179,1,2,4,3,2,78.9
+1007,Westview Elementary,21,6.7,76.8,88.2,7.2,21,18.7,392,392,130,1,1,3,2,1,79.6
+1008,Pinecrest Elementary,24,7.1,78.4,89.1,7.9,21,19.2,461,461,154,1,2,3,2,2,81.2
+1009,Harmony Hills Middle,30,7.4,79.2,89.8,8.4,22,19.5,292,584,194,2,2,4,3,1,82.7
+1010,Clearwater Middle School,23,7.8,80.6,90.4,8.9,23,19.4,447,447,149,1,2,4,2,1,83.9
+1011,Lakeshore Elementary,27,8.1,81.4,91.2,9.4,21,19.2,519,519,173,2,2,3,2,1,84.6
+1012,Maplewood K-8 School,35,8.4,82.7,91.9,10.1,22,19.2,337,673,224,2,3,5,3,2,85.8
+1013,Cedar Ridge Elementary,21,8.7,83.2,92.4,10.7,20,18.4,386,386,193,1,2,3,2,1,86.4
+1014,Sunrise Charter Academy,24,9.1,84.6,93.1,11.4,20,18.4,442,442,147,2,2,4,2,1,87.9
+1015,Blue Hills Elementary,19,9.4,85.1,93.7,12.1,19,18.3,348,348,174,1,2,3,2,0,88.6
+1016,Oakwood Middle School,27,9.8,86.4,94.2,12.8,21,18.8,507,507,169,2,2,4,2,1,89.2
+1017,Elmwood STEM Academy,22,10.2,88.1,95.4,14.2,19,18.1,398,398,199,2,3,8,2,1,91.4
+1018,Summit Ridge High School,54,11.4,88.2,94.8,13.4,24,21.1,285,1142,228,6,4,9,5,3,0,92.1
+1019,Harmony Valley High,42,9.8,84.5,92.3,11.2,26,20.9,310,876,219,5,3,7,4,3,1,89.4
+1020,Clearwater Prep Academy,32,10.2,86.1,93.7,12.1,27,20.4,327,654,218,4,4,7,4,2,0,90.8
+1021,Lakeside Community High,64,8.7,81.3,91.1,9.8,28,21.7,380,1389,278,6,3,8,5,4,2,87.2
+1022,Mountainview Career High,24,12.1,90.4,96.2,15.7,22,20.8,249,498,249,4,3,6,4,2,0,93.6
+1023,Prairie Star High School,36,9.4,83.7,92.6,11.8,25,20.3,365,731,244,3,3,7,4,2,1,88.4
+1024,Riverbend Academy,28,11.8,87.6,94.1,13.8,23,20.1,281,563,281,4,3,6,3,2,0,91.7
+1025,Westfield Innovation High,44,8.1,79.2,90.4,9.1,29,20.7,455,912,228,4,3,7,4,3,2,84.6
+1026,Northbrook High School,52,9.6,84.8,93.2,12.4,24,20.9,362,1087,272,4,4,8,4,3,1,89.8
+1027,Jefferson High School,58,10.4,86.2,93.8,13.1,25,21.4,414,1243,311,5,4,9,5,3,0,91.2
+1028,Oakdale STEM High,34,12.4,91.2,96.8,16.4,22,20.2,344,687,229,5,5,14,3,2,0,94.1
+1029,Millbrook Academy,26,10.8,87.4,94.6,13.7,23,20.2,349,524,262,4,3,7,3,1,0,92.4
+1030,Greenview Comprehensive High,47,9.1,83.2,91.7,10.8,27,20.8,489,978,326,5,3,7,4,3,2,87.6

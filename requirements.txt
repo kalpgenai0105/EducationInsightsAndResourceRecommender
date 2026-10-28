@@ -1,0 +1,34 @@
+# ============================================================
+# Education Insights & Resource Recommender — Python Dependencies
+# ============================================================
+# Pin to minor-version floors so the environment is reproducible
+# while still getting patch-level security fixes.
+
+# --- Google Agent Development Kit (ADK) ----------------------
+google-adk>=0.5.0
+
+# --- Google Cloud -----------------------------------------------
+google-cloud-bigquery>=3.10.0          # BigQuery client
+google-cloud-aiplatform>=1.60.0        # Vertex AI SDK
+vertexai>=1.60.0                       # High-level Vertex AI helpers (Agent Engine)
+google-auth>=2.20.0                    # Authentication
+google-generativeai>=0.7.0             # Gemini models (multimodal)
+
+# --- Data processing -------------------------------------------
+pandas>=2.0.0
+db-dtypes>=1.1.0                       # BigQuery → pandas type bridge
+
+# --- Visualisation ---------------------------------------------
+matplotlib>=3.7.0
+plotly>=5.15.0
+kaleido>=0.2.1                         # Static image export for Plotly
+
+# --- Multimodal / document extraction --------------------------
+pillow>=10.0.0                         # Image loading
+pypdf>=3.17.0                          # PDF text extraction
+
+# --- Utilities -------------------------------------------------
+python-dotenv>=1.0.0                   # .env file support
+pydantic>=2.5.0                        # Data validation
+tenacity>=8.2.0                        # Retry logic for API calls
+rich>=13.0.0                           # Pretty terminal output

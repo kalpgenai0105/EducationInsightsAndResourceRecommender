@@ -1,0 +1,31 @@
+school_id,school_name,district,county,state,grade_levels,school_type,total_enrollment,low_income_student_pct,free_reduced_lunch_pct,english_learner_pct,special_ed_pct,chronic_absenteeism_pct,title_i_eligible
+1001,Riverside Elementary,Millbrook Unified,Millbrook County,CA,K-5,Public,487,91.4,89.2,22.3,14.1,18.7,Yes
+1002,Eastside Middle School,Millbrook Unified,Millbrook County,CA,6-8,Public,612,88.7,86.5,19.8,12.6,17.2,Yes
+1003,Valley View Elementary,Crestwood USD,Millbrook County,CA,K-5,Public,354,87.3,85.1,18.4,13.9,16.5,Yes
+1004,Lincoln Park K-8,Lincoln Park USD,Millbrook County,CA,K-8,Public,729,86.1,83.8,21.5,11.8,15.9,Yes
+1005,Northgate Elementary,Northgate USD,Millbrook County,CA,K-5,Public,421,84.9,82.4,17.6,12.4,14.8,Yes
+1006,Greenfield Middle School,Greenfield USD,Jefferson County,CA,6-8,Public,538,79.2,77.1,15.2,11.3,13.4,Yes
+1007,Westview Elementary,Westfield USD,Oakdale County,CA,K-5,Public,392,74.6,72.4,14.8,10.7,12.1,Yes
+1008,Pinecrest Elementary,Pinecrest Unified,Millbrook County,CA,K-5,Public,461,68.3,66.1,12.4,9.8,11.8,Yes
+1009,Harmony Hills Middle,Eastbrook USD,Jefferson County,CA,6-8,Public,584,62.7,60.5,11.1,10.2,10.3,Yes
+1010,Clearwater Middle School,Clearwater USD,Millbrook County,CA,6-8,Public,447,57.4,55.2,9.7,11.4,9.7,No
+1011,Lakeshore Elementary,Lakeside USD,Jefferson County,CA,K-5,Public,519,52.1,50.3,10.3,9.1,9.2,No
+1012,Maplewood K-8 School,Crestwood USD,Millbrook County,CA,K-8,Public,673,47.8,46.1,8.4,8.7,8.6,No
+1013,Cedar Ridge Elementary,Northgate USD,Millbrook County,CA,K-5,Public,386,43.5,41.7,7.8,9.3,7.9,No
+1014,Sunrise Charter Academy,Pinecrest Unified,Millbrook County,CA,K-8,Charter,442,39.2,37.4,6.9,8.4,7.3,No
+1015,Blue Hills Elementary,Greenfield USD,Jefferson County,CA,K-5,Public,348,34.7,32.9,6.2,8.1,6.8,No
+1016,Oakwood Middle School,Westfield USD,Oakdale County,CA,6-8,Public,507,29.4,27.8,5.7,7.6,6.1,No
+1017,Elmwood STEM Academy,Lincoln Park USD,Millbrook County,CA,K-8,Magnet,398,25.1,23.4,5.1,6.8,5.4,No
+1018,Summit Ridge High School,Pinecrest Unified,Millbrook County,CA,9-12,Public,1142,67.3,65.1,18.4,12.1,8.2,Yes
+1019,Harmony Valley High,Eastbrook USD,Jefferson County,CA,9-12,Public,876,71.2,69.0,22.1,10.8,9.4,Yes
+1020,Clearwater Prep Academy,Clearwater USD,Millbrook County,CA,9-12,Public,654,58.4,56.2,14.7,13.2,11.1,No
+1021,Lakeside Community High,Lakeside USD,Jefferson County,CA,9-12,Public,1389,74.6,72.4,26.3,11.5,10.8,Yes
+1022,Mountainview Career High,Northgate USD,Jefferson County,CA,9-12,Public,498,62.1,60.0,11.9,14.8,12.3,Yes
+1023,Prairie Star High School,Greenfield USD,Jefferson County,CA,9-12,Public,731,55.8,53.6,9.2,12.4,13.7,No
+1024,Riverbend Academy,Crestwood USD,Millbrook County,CA,9-12,Public,563,69.5,67.3,20.6,10.1,9.8,Yes
+1025,Westfield Innovation High,Westfield USD,Oakdale County,CA,9-12,Public,912,48.3,46.1,13.1,11.9,14.2,No
+1026,Northbrook High School,Northgate USD,Millbrook County,CA,9-12,Public,1087,44.6,42.4,10.4,10.7,11.6,No
+1027,Jefferson High School,Lincoln Park USD,Millbrook County,CA,9-12,Public,1243,38.9,36.7,8.7,9.8,10.1,No
+1028,Oakdale STEM High,Westfield USD,Oakdale County,CA,9-12,Magnet,687,31.2,29.0,7.3,8.4,7.8,No
+1029,Millbrook Academy,Millbrook Unified,Millbrook County,CA,9-12,Charter,524,28.4,26.2,6.1,7.9,7.2,No
+1030,Greenview Comprehensive High,Greenfield USD,Jefferson County,CA,9-12,Public,978,52.7,50.5,11.8,11.2,12.4,No
